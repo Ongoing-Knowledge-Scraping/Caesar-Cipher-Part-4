@@ -9,7 +9,7 @@ Encrypt Decrypt messages. Easy &amp; famous encryption system using substitution
 
 ![Caesar Cipher](<https://github.com/Ongoing-Knowledge-Scraping/Caesar-Cipher-Part-4/blob/main/Caesar-Cipher-Encrypt-Decrypt.gif> "Running the code")
 
-## Replit Link ##
+## View on Replit ##
 
 https://replit.com/@kpatzer/Caesar-Cipher-Part-4
 
