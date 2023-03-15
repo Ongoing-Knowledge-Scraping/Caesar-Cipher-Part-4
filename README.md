@@ -7,7 +7,7 @@ Encrypt Decrypt messages. Easy &amp; famous encryption system using substitution
 
 ## Caesar Cipher ##
 
-![Caesar Cipher](<https://github.com/Ongoing-Knowledge-Scraping/Escaping-the-Maze/blob/main/Robot-Maze-Lowres.gif> "Running the code")
+![Caesar Cipher](<https://github.com/Ongoing-Knowledge-Scraping/Caesar-Cipher-Part-4/blob/main/Caesar-Cipher-Encrypt-Decrypt.gif> "Running the code")
 
 ## Replit Link ##
 
